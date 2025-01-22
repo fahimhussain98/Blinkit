@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="green">#266702</color>
+    <color name="diyaFlame">#ffbe0b</color>
+    <color name="diyaGrey">#808080</color>
+    <color name="diyaBorder">#ffbe0b</color>
+    <color name="diya">#ffbe0b</color>
+    <color name="grayish_blue">#8d99ae</color>
+    <color name="blue">#0F3C8A</color>
+
+
+
+
+    <color name="indigo">#2047AA</color>
+    <color name="red">#E11C1C</color>
+    <color name="yellow">#FFD505</color>
+    <color name="indigo_dark">#4B0082</color>
+    <color name="lightyellow">#F6EA74</color>
+    <color name="lightblue">#B1E4F1</color>
+    <color name="greenlight">#DAF3B3</color>
+    <color name="transparent">#00000000</color>
+</resources>
