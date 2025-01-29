@@ -1,4 +1,4 @@
-package com.hussain.BlinkIt;
+package com.hussain.BlinkIt.auth;
 
 import android.os.Bundle;
 

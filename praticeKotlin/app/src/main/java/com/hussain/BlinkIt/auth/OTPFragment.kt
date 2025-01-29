@@ -1,4 +1,4 @@
-package com.hussain.BlinkIt
+package com.hussain.BlinkIt.auth
 
 import android.content.Intent
 import android.os.Bundle
@@ -11,6 +11,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.viewModels
 import androidx.lifecycle.lifecycleScope
 import androidx.navigation.fragment.findNavController
+import com.hussain.BlinkIt.Utils.Utils
 import com.hussain.BlinkIt.activity.UsersMainActivity
 import com.hussain.BlinkIt.models.Users
 import com.hussain.BlinkIt.viewmodels.AuthViewModel

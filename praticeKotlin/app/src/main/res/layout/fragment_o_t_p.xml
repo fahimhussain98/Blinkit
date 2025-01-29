@@ -7,7 +7,7 @@
     android:fitsSystemWindows="true"
     android:background="@color/white"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context="com.hussain.BlinkIt.OTPFragment">
+    tools:context="com.hussain.BlinkIt.auth.OTPFragment">
 
     <androidx.appcompat.widget.Toolbar
         android:id="@+id/tbOtpFragment"

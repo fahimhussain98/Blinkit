@@ -1,8 +1,5 @@
 package com.hussain.BlinkIt.models
 
-//data class Users(){
-//
-//}
 data class Users(
     var uid: String? = null,
     val userPhoneNumber: String? = null,

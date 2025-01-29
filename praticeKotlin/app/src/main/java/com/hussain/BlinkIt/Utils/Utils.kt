@@ -1,4 +1,4 @@
-package com.hussain.BlinkIt
+package com.hussain.BlinkIt.Utils
 
 import android.app.AlertDialog
 import android.content.Context

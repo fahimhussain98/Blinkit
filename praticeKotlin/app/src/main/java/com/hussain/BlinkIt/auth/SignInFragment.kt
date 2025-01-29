@@ -1,4 +1,4 @@
-package com.hussain.BlinkIt
+package com.hussain.BlinkIt.auth
 
 import android.os.Build
 import android.os.Bundle
@@ -10,6 +10,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.core.content.ContextCompat
 import androidx.navigation.fragment.findNavController
+import com.hussain.BlinkIt.Utils.Utils
 import com.hussain.newkoltinproject.R
 import com.hussain.newkoltinproject.databinding.FragmentSignInBinding
 
@@ -22,7 +23,7 @@ class SignInFragment : Fragment() {
         inflater: LayoutInflater, container: ViewGroup?,
         savedInstanceState: Bundle?
     ): View? {
-//        bindingF = FragmentSignInBinding.inflate(layoutInflater)
+//      bindingF = FragmentSignInBinding.inflate(layoutInflater)
         bindingF = FragmentSignInBinding.inflate(inflater, container, false)
         setStatusBarColor()
         getUserNumber()
